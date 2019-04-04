@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "files": [
+            "lib/parser_str.php"
+        ]
+    },
+    "require": {
+        "facebook/webdriver": "^1.6",
+        "phpoffice/phpspreadsheet": "^1.6"
+    }
+}
